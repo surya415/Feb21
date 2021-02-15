@@ -1,13 +1,10 @@
-This is readme document
-
-
+#This is readme document
 
 #added main files
-
 *src/main.py
-
 *test/main.py
 
-#Added requirements.txt
-
+#Added requirements.txt
 *src/requirements.txt
+
+#rel_1.0
