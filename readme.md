@@ -1,6 +1,6 @@
-#This is readme document
+#This is Readme document
 
-#added main files
+#Added main files
 *src/main.py
 *test/main.py
 
@@ -9,4 +9,7 @@
 
 #rel_1.0
 
-#Base feature 1
+#base feature 1
+#featur2_rel1.0
+
+#feature1_rel1.2
